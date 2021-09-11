@@ -1,0 +1,426 @@
+.head{
+	width: 100%;
+	max-width: 1400px;
+	max-height: 100Px;
+	height: 100%;
+}
+.logo{
+	margin-top: 30px;
+	margin-left: 100px;
+
+}
+.home{
+	margin-top: -25px;
+	margin-left: 800px;
+	color: width;
+	text-decoration: none;
+}
+
+.about{
+	 	margin-top: -34px;
+	margin-left: 900px;
+	color: width;
+	
+}
+.contact{
+		margin-top: -34px;
+	margin-left: 1000px;
+	color: width;
+}
+.sign{
+	margin-top: -615px;
+	margin-left: 1130px;
+	color:  white;
+	background-color: #2d2c2c;
+	border-radius: 20px;
+	width: 90px;
+	height: 30px;
+	text-align: center;
+	padding-top: 4px;
+}
+
+.img1{
+	height: 367px;
+	width:620px;
+	margin-top: 50px;
+	margin-left: 600px;
+}
+.green{
+	background-color: #24d192;
+	height: 650px;
+	width: 790px;
+	margin-top: -500px;
+	margin-left: 550px;
+	border-radius:  650px 0px 0px 650px ;
+}
+.text{
+	font-size: 40pt;
+	height: 100px;
+	height: 100px;
+	font-family: Font - Sangli;
+	
+}
+.shop{
+	font-family: Font - Sangli;
+}
+.mini-text{
+	font-size: 18pt;
+	height: 100px;
+	height: 100px;
+	font-family: Font - Sangli;
+	margin-top: -280px;
+	margin-left: 100px;
+
+}
+.mini-text2{
+	color: #15e095;
+	font-size: 25pt;
+	height: 100px;
+	height: 100px;
+	font-family: Font - Sangli;
+	margin-top: -70px;
+	margin-left: 100px;
+
+}
+.button{
+	height: 60px;
+	width: 140px;
+	border-radius: 20px;
+	background-color: black;
+	margin-top: -50px;
+	margin-left: 100px;
+	color: white;
+	padding-top: 4px;
+	padding-left: 55px;
+}
+.button:hover{
+	background-color: gray;
+	color: #2d2c2c;
+}
+.home2{
+	width: 100%;
+	max-width: 1350px;
+	height: 900px;
+	background-color: #23262d;
+	margin-top: 120px;
+	position: absolute;
+}
+.About{
+	font-size: 22pt;
+	color: white;
+	font-family: Font - Sangli;
+	margin-left: 500px;
+	margin-top: 100px;
+}
+.d{
+	font-size: 8pt;
+	color: white;
+	font-family: Font - Sangli;
+	margin-left: -300px;
+	margin-top: 20px;
+}
+.imgsecond{
+	margin-top: 100px;
+	margin-left: -220px;
+}
+.button2{
+	height: 90px;
+	width: 200px;
+	border-radius: 20px;
+	background-color: black;
+	margin-top: -10px;
+	margin-left: 30px;
+	color: white;
+	padding-top: 4px;
+	padding-left: 80px;
+}
+.button2:hover{
+	background-color: white;
+	color: black;
+}
+.whitehome{
+	height: 2000px;
+	width: 100%;
+margin-top: 90px;
+	background-color: white;
+}
+.Build{
+	font-size: 22pt;
+	color: blac;
+	font-family: Font - Sangli;
+	margin-left: 450px;
+	margin-top: 250px;
+}
+.l{
+	font-size: 8pt;
+	color: blac;
+	font-family: Font - Sangli;
+	margin-left: -300px;
+	margin-top: 20px;
+}
+.green1{
+	height: 300px;
+	background-color: #24d192;
+	border-radius: 25px;
+	width:400px;
+	margin-top: 80px;
+	margin-left: -400px;
+}
+.gb500{
+	color: white;
+	margin-left: 140px;
+	padding-top: 1px;
+	font-size: 13pt;
+}
+.micro{
+	color: white;
+	text-align: center;
+	margin-left: 50px;
+	padding-top: -40px;
+	font-size: 13pt;
+	margin: 0 0 0 0px;
+}
+.lorem1{
+	color: white;
+	text-align: center;
+	margin-left: 50px;
+	padding-top: -30px;
+	font-size: 7pt;
+	width: 300px;
+}
+.green2{
+	height: 300px;
+	background-color: #24d192;
+	border-radius: 25px;
+	width:400px;
+	margin-top: -300px;
+	margin-left: 25px;
+}
+.gb100{
+	color: white;
+	margin-left: 140px;
+	padding-top: 1px;
+	font-size: 13pt;
+}
+.green3{
+	height: 300px;
+	background-color: #24d192;
+	border-radius: 25px;
+	width:400px;
+	margin-top: -300px;
+	margin-left: 450px;
+}
+.P100{
+	color: white;
+	margin-left: 140px;
+	padding-top: 1px;
+	font-size: 13pt;
+}
+.button3{
+	height: 50px;
+	width: 200px;
+	border-radius: 20px;
+	background-color: black;
+	margin-top: 150px;
+	margin-left: -400px;
+	color: white;
+	padding-top: 15px;
+	padding-left: 80px;
+	
+}
+.button3:hover{
+	text-decoration: none;
+	background-color: gray;
+	color: #2d2c2c;
+}
+.buy{
+	text-decoration: none;
+	color: white;
+}
+.buy:hover{
+	text-decoration: none;
+	background-color: gray;
+	color: #2d2c2c;
+}
+.request{
+	margin-left: -105px;
+	margin-top: 250px;
+font-size: 55pt;
+}
+.dolor{
+	margin-left: -205px;
+	margin-top: 50px;
+font-size: 17pt;
+text-align: center;
+width: 800px;
+}
+.people{
+	width: 1100px;
+	height: 600px;
+	background-color: #2e353b;
+	margin-left: -350px;
+	margin-top: 50px;
+
+}
+.img2{
+	margin-left: 710px;
+	margin-top: 110px;
+	width: 390px;
+	height: 490px;
+}
+.name{
+	width: 600px;
+	height: 62px;
+	background-color: white;
+	border-radius: 20px;
+	margin-top: -550px;
+	margin-left: 50px;
+	border: none; 
+}
+.input {
+         width: 90%;
+         padding: 0 0 10px 0;
+         border: none;
+         border-bottom: 0px solid white;  
+         background-color: white; # Фон будет прозрачным. 
+         outline: none;
+         transition: 0.3s;
+         margin-top: 10px;
+         padding-top: 10px;
+         margin-left: 10px;
+         font-size: 15pt;
+ }
+ 
+ .input2 {
+         width: 90%;
+         padding: 0 0 10px 0;
+         border: none;
+         border-bottom: 0px solid white;  
+         background-color: white; # Фон будет прозрачным. 
+         outline: none;
+         transition: 0.3s;
+         margin-top: 10px;
+         padding-top: 10px;
+         margin-left: 10px;
+         font-size: 15pt;
+ }
+ .number{
+	width: 600px;
+	height: 62px;
+	background-color: white;
+	border-radius: 20px;
+	margin-top: 20px;
+	margin-left: 50px;
+	border: none; 
+}
+ .emaill{
+	width: 600px;
+	height: 62px;
+	background-color: white;
+	border-radius: 20px;
+	margin-top: 20px;
+	margin-left: 50px;
+	border: none; 
+}
+ .input3 {
+         width: 90%;
+         padding: 0 0 10px 0;
+         border: none;
+         border-bottom: 0px solid white;  
+         background-color: white; # Фон будет прозрачным. 
+         outline: none;
+         transition: 0.3s;
+         margin-top: 10px;
+         padding-top: 10px;
+         margin-left: 10px;
+         font-size: 15pt;
+ 
+}
+ .input4 {
+         width: 90%;
+         padding: 0 0 10px 0;
+         border: none;
+         border-bottom: 0px solid white;  
+         background-color: white; # Фон будет прозрачным. 
+         outline: none;
+         transition: 0.3s;
+         margin-top: 10px;
+         padding-top: 20px;
+         margin-left: 10px;
+         font-size: 15pt;
+         height: 100px;
+ }
+ .message{
+	width: 600px;
+	height: 152px;
+	background-color: white;
+	border-radius: 20px;
+	margin-top: 20px;
+	margin-left: 50px;
+	border: none; 
+}
+.button4{
+	height: 50px;
+	width: 140px;
+	border-radius: 20px;
+	background-color: black;
+	margin-top:50px;
+	margin-left: 250px;
+	color: white;
+	padding-top: 5px;
+	padding-left: 70px;
+	
+}
+.button4:hover{
+	text-decoration: none;
+	background-color: gray;
+	color: #2d2c2c;
+}
+.girl{
+	width: 1400px;
+	height: 350px;
+	background-color: #24d192;
+	margin-left: -450px;
+	margin-top: 100px;
+}
+.girlimg{
+	width: 520px;
+	height: 350px;
+	margin-left: 50px;
+}
+.offer{
+	font-size: 50px;
+	margin-left:850px;
+	margin-top: -300px;
+	color: white;
+}
+.prosent{
+font-size: 80px;
+	margin-left:650px;
+	margin-top: -165px;
+	color: white;	
+}
+.There{
+	font-size: 15px;
+	text-align: left;
+	margin-left: 650px;
+	margin-top: -40px;
+	width:430px;
+	color: white;
+}
+.js{
+	width: 1400px;
+	height: 500px;
+	margin-left: -500px;
+}
+.free{
+	margin-left: -350px;
+	font-size: 40pt;
+	color: #24d192;
+}
+.Reponsive{
+	margin-top: -30px;
+	margin-left: -350px;
+	font-size: 40pt;
+	color: black;
+}
